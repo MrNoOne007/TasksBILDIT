@@ -13,7 +13,4 @@ public class Zadatak4 {
 		String[] words = line.split("[ ]+");
 		System.out.println("Predzadnja rijec je: " + words[words.length - 2]);
 	}
-
-	
-	
 }
